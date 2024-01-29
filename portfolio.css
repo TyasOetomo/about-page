@@ -3,8 +3,8 @@ font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif; */
 
 :root {
-    --branding-color:#6c63ff;
-    --secondary-color: #baaae3;
+    --branding-color:#f4e4eb;
+    --secondary-color: #7e5cd4;
     --heading-font-family:'Playfair Display', serif;
     --default-font-family:'Poppins', sans-serif;
 }
